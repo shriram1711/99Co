@@ -1,1 +1,7 @@
 
+Hi,
+
+1- Created Controller,Service,Repository Structure.
+2- Added PostMan collection to Verify the REST API's.
+3- As per my understanding I have created the REST API's in all the 3 controller List,User and Public-API.
+4- There is more that we can do like Database constraints, error message modification etc.
